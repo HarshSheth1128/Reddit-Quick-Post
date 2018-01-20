@@ -1,0 +1,52 @@
+html{
+  width: 500px;
+  height: 400px;
+
+}
+
+.title{
+  color:#555555;
+}
+
+h1,body{
+ background-color: #A9A9A9;
+}
+
+h1{
+  background-color: #CCCCCC;
+}
+
+.sort_selection{
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 10px;
+}
+
+a{
+  color: white;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+form-group{
+  position: relative;
+  float: right;
+  right: 0px;
+  padding-right: 30px;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.subreddit{
+  display: inline;
+  float: left;
+}
+
+.thumbnail{
+  display: inline;
+  float: left;
+}
